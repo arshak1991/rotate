@@ -73,6 +73,7 @@ const rotateMatrix = async (matrix: number[][]) => {
         result.push(item)
       }
     }
+
   return result
 };
 
